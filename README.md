@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Ignite Feed" src="./primeiro-projeto/.github/ignite-feed-github.png" width="100%">
+  <img alt="Ignite Feed" src="./.github/ignite-feed-github.png" width="100%">
 </p>
 
 ## 💻 Projeto
